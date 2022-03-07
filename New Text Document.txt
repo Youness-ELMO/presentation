@@ -1,0 +1,4 @@
+ecrit un programme qui fait inserer et presenter un perssone de donner son
+ nom et prenom et de l'age te sa ville
+
+Ecrire un programme C#, qui lit le nom, le prénom , l'âge el sa vile de plusieurs personne , puis insère une nouvelle personne dans une position entrée par l'utilisateur.
